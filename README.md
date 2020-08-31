@@ -1,0 +1,1 @@
+# tesseract-OCR-in-google-colab.
